@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace EF.Repository.Repository
 {
-	public class EntityFrameworkReadOnlyRepository<TContext> : IReadOnlyRepository where TContext : DbContext
+	public class EFReadOnlyRepository<TContext> : IReadOnlyRepository where TContext : DbContext
 	{
 		protected readonly TContext context;
 
-		public EntityFrameworkReadOnlyRepository(TContext context)
+		public EFReadOnlyRepository(TContext context)
 		{
 			this.context = context;
 		}

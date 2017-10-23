@@ -8,9 +8,9 @@ using EF.Models.Entity;
 
 namespace EF.Repository.Repository
 {
-	public class EntityFrameworkRepository<TContext> : EntityFrameworkReadOnlyRepository<TContext>, IRepository where TContext : DbContext
+	public class EFRepository<TContext> : EFReadOnlyRepository<TContext>, IRepository where TContext : DbContext
 	{
-		public EntityFrameworkRepository(TContext context)
+		public EFRepository(TContext context)
 			: base(context)
 		{
 		}

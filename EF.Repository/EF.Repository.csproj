@@ -47,8 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Repository\EntityFrameworkReadOnlyRepository.cs" />
-    <Compile Include="Repository\EntityFrameworkRepository.cs" />
+    <Compile Include="Repository\EFReadOnlyRepository.cs" />
+    <Compile Include="Repository\EFRepository.cs" />
     <Compile Include="IReadOnlyRepository.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
