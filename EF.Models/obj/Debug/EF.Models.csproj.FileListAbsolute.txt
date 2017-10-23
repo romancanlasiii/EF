@@ -1,0 +1,12 @@
+E:\MyRepo\UnitGeneric\UnitOfWork\EF.Models\bin\Debug\EF.Models.dll
+E:\MyRepo\UnitGeneric\UnitOfWork\EF.Models\bin\Debug\EF.Models.pdb
+E:\MyRepo\UnitGeneric\UnitOfWork\EF.Models\obj\Debug\EF.Models.csprojResolveAssemblyReference.cache
+E:\MyRepo\UnitGeneric\UnitOfWork\EF.Models\obj\Debug\EF.Models.csproj.CoreCompileInputs.cache
+E:\MyRepo\UnitGeneric\UnitOfWork\EF.Models\obj\Debug\EF.Models.dll
+E:\MyRepo\UnitGeneric\UnitOfWork\EF.Models\obj\Debug\EF.Models.pdb
+E:\MyRepo\EF\EF.Models\bin\Debug\EF.Models.dll
+E:\MyRepo\EF\EF.Models\bin\Debug\EF.Models.pdb
+E:\MyRepo\EF\EF.Models\obj\Debug\EF.Models.csprojResolveAssemblyReference.cache
+E:\MyRepo\EF\EF.Models\obj\Debug\EF.Models.csproj.CoreCompileInputs.cache
+E:\MyRepo\EF\EF.Models\obj\Debug\EF.Models.dll
+E:\MyRepo\EF\EF.Models\obj\Debug\EF.Models.pdb
